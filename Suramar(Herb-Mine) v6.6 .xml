@@ -1,0 +1,152 @@
+<HBProfile>
+   <!--
+      PROFILE EXPECTATIONS:
+         * When using this profile, be certain to set the HonorBuddy bot to (select only one):
+                (*) Gatherbuddy2
+                ( ) Grinding / Mixed
+                ( ) Questing
+                ( ) PvP
+   
+         * This profile is appropriate for (check all that apply):
+                [X] Alliance   [ ] Achievement
+                [X] Horde      [X] Farming
+                               [ ] Leveling
+                               [ ] PvP
+                               [ ] Questing
+                               [ ] Reputation
+                               [ ] Seasonal
+   
+         * The profile grammar for the Levelbot (Questing & Grinding) can
+           be found at this Wiki location:
+               :Category:Honorbuddy:Levelbot:Grammar 
+   
+         * An explanation of <ForceMail> and <ProtectedItems> usage is here.
+           DO NOT INCLUDE a <ForceMail> element in a profile!
+           DO NOT INCLUDE a <ProtectedItems> element in a profile, unless it
+           is being used to protect items needed for a quest.
+           You can find more information in the Wiki here:
+               Honorbuddy:About ForceMail and ProtectedItems 
+    -->
+   
+   <Name>Starlight Rose</Name>
+   <Name>Leystone</Name>
+   <Name>Felslate</Name>
+   <Name>Felslate Seam</Name>
+   <Name>Leystone Seam</Name>
+
+   <MinLevel>1</MinLevel>
+   <MaxLevel>1001</MaxLevel>
+
+   
+   <MinDurability>0.2</MinDurability>
+   <MinFreeBagSlots>2</MinFreeBagSlots>
+   
+   <MailGrey>false</MailGrey>
+   <MailWhite>false</MailWhite>
+   <MailGreen>true</MailGreen>
+   <MailBlue>true</MailBlue>
+   <MailPurple>true</MailPurple>
+   
+   <SellGrey>false</SellGrey>
+   <SellWhite>false</SellWhite>
+   <SellGreen>false</SellGreen>
+   <SellBlue>false</SellBlue>
+   <SellPurple>false</SellPurple>
+
+
+   
+   <AvoidMobs>
+     <Mob Name="Starving Ettin" Entry="104220" />
+   </AvoidMobs>
+   
+   <Blackspots>
+<Blackspot X="1739.633" Y="5145.614" Z="73.73757" Radius="25" /> 
+<Blackspot X="1860.687" Y="4791.298" Z="144.3068" Radius="10" />
+   </Blackspots>
+   
+   <Mailboxes>
+<Mailbox X="1762.125" Y="4642.636" Z="123.9938" />
+   </Mailboxes>
+   
+   <Vendors>
+<Vendor Name="Chief Telemancer Oculeth" Entry="98548" Type="Repair" Nav="Fly" X="1780.406" Y="4644.254" Z="123.993" />
+   </Vendors>
+   
+   <Hotspots>
+<Hotspot X="1619.83" Y="4759.724" Z="138.533" />
+<Hotspot X="1584.624" Y="4736.055" Z="140.9661" />
+<Hotspot X="1570.11" Y="4716.25" Z="139.4369" />
+<Hotspot X="1545.613" Y="4721.7" Z="141.0055" />
+<Hotspot X="1499.874" Y="4756.236" Z="143.8886" />
+<Hotspot X="1419.844" Y="4745.556" Z="139.9743" />
+<Hotspot X="1372.453" Y="4678.118" Z="128.7503" />
+<Hotspot X="1446.35" Y="4610.093" Z="127.0342" />
+<Hotspot X="1448.174" Y="4559.54" Z="123.2301" />
+<Hotspot X="1436.56" Y="4509.042" Z="122.9071" />
+<Hotspot X="1363.906" Y="4474.689" Z="118.3131" />
+<Hotspot X="1399.003" Y="4451.382" Z="118.8252" />
+<Hotspot X="1495.326" Y="4453.104" Z="124.3826" />
+<Hotspot X="1547.2" Y="4490.057" Z="133.0764" />
+<Hotspot X="1597.287" Y="4490.158" Z="139.996" />
+<Hotspot X="1624.485" Y="4437.181" Z="143.7333" />
+<Hotspot X="1578.816" Y="4342.188" Z="125.8293" />
+<Hotspot X="1566.473" Y="4252.332" Z="126.7076" />
+<Hotspot X="1668.672" Y="4206.639" Z="159.1342" />
+<Hotspot X="1697.832" Y="4349.443" Z="162.7515" />
+<Hotspot X="1665.964" Y="4488.613" Z="151.0379" />
+<Hotspot X="1703.026" Y="4550.817" Z="160.3389" />
+<Hotspot X="1759.028" Y="4615.792" Z="164.7962" />
+<Hotspot X="1826.296" Y="4665.152" Z="168.6063" />
+<Hotspot X="1863.46" Y="4723.617" Z="163.065" />
+<Hotspot X="1940.673" Y="4811.988" Z="163.5455" />
+<Hotspot X="1977.468" Y="4846.383" Z="162.9121" />
+<Hotspot X="2027.269" Y="4946.304" Z="162.5807" />
+<Hotspot X="2076.035" Y="5023.285" Z="155.3015" />
+<Hotspot X="2060.061" Y="5146.71" Z="112.6363" />
+<Hotspot X="2129.376" Y="5241.42" Z="103.247" />
+<Hotspot X="2207.911" Y="5247.587" Z="114.605" />
+<Hotspot X="2262.842" Y="5308.945" Z="116.5694" />
+<Hotspot X="2314.299" Y="5394.177" Z="116.1201" />
+<Hotspot X="2335.972" Y="5472.219" Z="121.6761" />
+<Hotspot X="2351.843" Y="5540.927" Z="125.1354" />
+<Hotspot X="2403.709" Y="5554.304" Z="142.749" />
+<Hotspot X="2478.853" Y="5639.841" Z="163.3426" />
+<Hotspot X="2540.292" Y="5698.181" Z="162.5452" />
+<Hotspot X="2586.244" Y="5706.239" Z="175.574" />
+<Hotspot X="2629.758" Y="5702.302" Z="190.9017" />
+<Hotspot X="2618.072" Y="5631.879" Z="185.4374" />
+<Hotspot X="2596.154" Y="5558.529" Z="181.7736" />
+<Hotspot X="2544.711" Y="5491.392" Z="150.0543" />
+<Hotspot X="2492.914" Y="5395.048" Z="122.0501" />
+<Hotspot X="2423.714" Y="5356.192" Z="126.2081" />
+<Hotspot X="2333.94" Y="5393.348" Z="116.0994" />
+<Hotspot X="2283.447" Y="5337.447" Z="118.6782" />
+<Hotspot X="2263.209" Y="5265.33" Z="114.4791" />
+<Hotspot X="2286.23" Y="5210.326" Z="109.5128" />
+<Hotspot X="2267.471" Y="5136.486" Z="122.8326" />
+<Hotspot X="2226.21" Y="5048.442" Z="135.5042" />
+<Hotspot X="2116.029" Y="4949.35" Z="149.7144" />
+<Hotspot X="2035.436" Y="4959.006" Z="162.5804" />
+<Hotspot X="1915.565" Y="4864.036" Z="155.207" />
+<Hotspot X="1856.425" Y="4855.338" Z="155.2724" />
+<Hotspot X="1946.354" Y="4850.376" Z="162.766" />
+<Hotspot X="2017.586" Y="4773.754" Z="170.3616" />
+<Hotspot X="2083.885" Y="4817.574" Z="172.1278" />
+<Hotspot X="1954.701" Y="4827.987" Z="162.5807" />
+<Hotspot X="1820.846" Y="4718.301" Z="161.7477" />
+<Hotspot X="1794.395" Y="4769.475" Z="147.5326" />
+<Hotspot X="1745.618" Y="4833.376" Z="147.6633" />
+<Hotspot X="1693.972" Y="4959.812" Z="127.7694" />
+<Hotspot X="1568.466" Y="4913.811" Z="166.8152" />
+<Hotspot X="1442.597" Y="4873.313" Z="181.5996" />
+<Hotspot X="1369.831" Y="4814.213" Z="167.7061" />
+<Hotspot X="1336.217" Y="4732.129" Z="138.948" />
+<Hotspot X="1407.255" Y="4660.671" Z="128.5108" />
+<Hotspot X="1451.581" Y="4614.701" Z="126.7767" />
+<Hotspot X="1443.047" Y="4545.84" Z="123.7861" />
+<Hotspot X="1739.715" Y="5079.118" Z="96.18951" />
+<Hotspot X="1654.327" Y="5086.46" Z="87.89053" />
+<Hotspot X="1755.198" Y="5157.024" Z="74.41723" />
+   </Hotspots>
+       
+</HBProfile>

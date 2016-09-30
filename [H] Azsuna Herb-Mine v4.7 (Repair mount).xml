@@ -1,0 +1,146 @@
+<HBProfile>
+   <!--
+      PROFILE EXPECTATIONS:
+         * When using this profile, be certain to set the HonorBuddy bot to (select only one):
+                (*) Gatherbuddy2
+                ( ) Grinding / Mixed
+                ( ) Questing
+                ( ) PvP
+   
+         * This profile is appropriate for (check all that apply):
+                [ ] Alliance   [ ] Achievement
+                [X] Horde      [X] Farming
+                               [ ] Leveling
+                               [ ] PvP
+                               [ ] Questing
+                               [ ] Reputation
+                               [ ] Seasonal
+   
+
+    -->
+   
+   <Name>Aethril</Name>
+   <Name>Leystone</Name>
+   <Name>Felslate</Name>
+   <MinLevel>1</MinLevel>
+   <MaxLevel>1001</MaxLevel>
+   
+   <MinDurability>0.3</MinDurability>
+   <MinFreeBagSlots>10</MinFreeBagSlots>
+   
+   <MailGrey>false</MailGrey>
+   <MailWhite>false</MailWhite>
+   <MailGreen>false</MailGreen>
+   <MailBlue>false</MailBlue>
+   <MailPurple>true</MailPurple>
+   
+   <SellGrey>false</SellGrey>
+   <SellWhite>false</SellWhite>
+   <SellGreen>false</SellGreen>
+   <SellBlue>false</SellBlue>
+   <SellPurple>false</SellPurple>
+   
+   <AvoidMobs>
+<Mob Entry="89097" Name="Cove Skrog"/>
+<Mob Entry="90164" Name="Warbringer Mox'na"/>
+<Mob Entry="90173" Name="Arcana Stalker"/>
+   </AvoidMobs>
+   
+   <Blackspots>
+<Blackspot X="-307.9842" Y="5403.391" Z="44.77909" Radius="3"/>
+<Blackspot X="-335.1913" Y="5434.571" Z="46.58919" Radius="3"/>
+<Blackspot X="-348.0161" Y="5449.949" Z="46.58947" Radius="3"/>
+<Blackspot X="-385.7032" Y="5462.068" Z="45.57788" Radius="3"/>
+<Blackspot X="-412.0427" Y="5481.797" Z="45.11364" Radius="3"/>
+<Blackspot X="-423.8059" Y="5461.505" Z="50.78566" Radius="3"/>
+<Blackspot X="458.0194" Y="5453.422" Z="61.4251" Radius="3"/>
+<Blackspot X="-692.5352" Y="6146.237" Z="-0.4904613" Radius="3"/>
+   </Blackspots>
+   
+   <Mailboxes>
+<Mailbox X="-798.725" Y="6105.624" Z="5.107129" />
+   </Mailboxes>
+   
+   <Vendors>
+<Vendor Name="Drix Blackwrench" Entry="32641" Type="Repair" Nav="Fly" X="-798.725" Y="6105.624" Z="5.107129" />
+   </Vendors>
+   
+   <Hotspots>
+<Hotspot X="-683.6219" Y="6010.679" Z="1.811625" />
+<Hotspot X="-788.8494" Y="6115.956" Z="4.644443" />
+<Hotspot X="-814.4771" Y="6169.688" Z="1.91904" />
+<Hotspot X="-776.257" Y="6203.126" Z="-0.3014839" />
+<Hotspot X="-718.4072" Y="6247.31" Z="5.121846" />
+<Hotspot X="-648.2922" Y="6269.375" Z="35.94344" />
+<Hotspot X="-582.9692" Y="6213.508" Z="66.96378" />
+<Hotspot X="-526.4926" Y="6160.252" Z="55.28827" />
+<Hotspot X="-617.5458" Y="6094.866" Z="10.40127" />
+<Hotspot X="-662.1673" Y="6028.084" Z="3.862793" />
+<Hotspot X="-608.4161" Y="6000.973" Z="22.14464" />
+<Hotspot X="-634.5191" Y="5959.7" Z="38.1744" />
+<Hotspot X="-624.2674" Y="5867.149" Z="37.36722" />
+<Hotspot X="-592.2335" Y="5857.485" Z="32.09858" />
+<Hotspot X="-576.4156" Y="5814.2" Z="25.22346" />
+<Hotspot X="-575.2241" Y="5769.618" Z="24.91464" />
+<Hotspot X="-432.1362" Y="5766.06" Z="39.61363" />
+<Hotspot X="-400.2234" Y="5722.938" Z="41.92683" />
+<Hotspot X="-372.8829" Y="5709.676" Z="49.30693" />
+<Hotspot X="-367.7562" Y="5630.841" Z="38.24972" />
+<Hotspot X="-337.2413" Y="5514.409" Z="38.70346" />
+<Hotspot X="-321.4849" Y="5389.883" Z="46.12003" />
+<Hotspot X="-241.9026" Y="5389.486" Z="42.00218" />
+<Hotspot X="-58.79987" Y="5440.978" Z="36.44204" />
+<Hotspot X="-17.33472" Y="5446.922" Z="36.60954" />
+<Hotspot X="72.24881" Y="5461.379" Z="39.07846" />
+<Hotspot X="123.2308" Y="5469.607" Z="37.74807" />
+<Hotspot X="322.0855" Y="5645.488" Z="40.96254" />
+<Hotspot X="390.3627" Y="5625.688" Z="52.8773" />
+<Hotspot X="513.3455" Y="5405.34" Z="34.83216" />
+<Hotspot X="730.967" Y="5530.473" Z="83.05324" />
+<Hotspot X="753.0143" Y="5737.069" Z="96.94731" />
+<Hotspot X="1005.624" Y="5773.288" Z="72.93624" />
+<Hotspot X="1264.612" Y="5765.822" Z="2.571275" />
+<Hotspot X="1122.947" Y="5807.167" Z="50.14351" />
+<Hotspot X="1052.92" Y="5953.334" Z="86.06515" />
+<Hotspot X="972.7893" Y="6011.203" Z="100.8053" />
+<Hotspot X="986.6887" Y="6096.784" Z="99.96868" />
+<Hotspot X="1027.531" Y="6259.932" Z="97.91386" />
+<Hotspot X="1019.125" Y="6273.603" Z="99.99274" />
+<Hotspot X="1226.038" Y="6314.171" Z="76.52377" />
+<Hotspot X="1171.854" Y="6326.687" Z="101.1973" />
+<Hotspot X="1046.174" Y="6442.352" Z="137.6748" />
+<Hotspot X="997.5599" Y="6465.921" Z="148.1881" />
+<Hotspot X="915.4302" Y="6484.521" Z="152.0847" />
+<Hotspot X="810.0272" Y="6479.968" Z="136.319" />
+<Hotspot X="652.5925" Y="6501.363" Z="86.66204" />
+<Hotspot X="584.3628" Y="6485.954" Z="71.7543" />
+<Hotspot X="493.5479" Y="6560.791" Z="38.41937" />
+<Hotspot X="441.9533" Y="6606.851" Z="58.47544" />
+<Hotspot X="354.1755" Y="6684.788" Z="81.01917" />
+<Hotspot X="367.0199" Y="6805.18" Z="94.2706" />
+<Hotspot X="384.657" Y="6884.585" Z="97.12885" />
+<Hotspot X="321.1399" Y="6971.759" Z="93.3059" />
+<Hotspot X="263.7037" Y="7026.441" Z="82.59857" />
+<Hotspot X="270.1212" Y="7082.1" Z="81.11916" />
+<Hotspot X="195.0626" Y="7162" Z="52.98892" />
+<Hotspot X="142.737" Y="7136.768" Z="50.01719" />
+<Hotspot X="93.26567" Y="7126.71" Z="37.48584" />
+<Hotspot X="56.68882" Y="7085.451" Z="25.24034" />
+<Hotspot X="132.6374" Y="6935.594" Z="77.9478" />
+<Hotspot X="-58.93792" Y="6949.96" Z="15.64968" />
+<Hotspot X="-116.8012" Y="6840.789" Z="25.7371" />
+<Hotspot X="-194.1552" Y="6786.064" Z="39.15055" />
+<Hotspot X="-302.3127" Y="6780.726" Z="44.48866" />
+<Hotspot X="-455.0501" Y="6777.562" Z="69.42007" />
+<Hotspot X="-584.6028" Y="6646.73" Z="112.1415" />
+<Hotspot X="-620.6071" Y="6594.955" Z="110.9094" />
+<Hotspot X="-675.6823" Y="6561.824" Z="105.8458" />
+<Hotspot X="-623.5841" Y="6492.576" Z="118.0779" />
+<Hotspot X="-596.4186" Y="6266.12" Z="71.08832" />
+<Hotspot X="-591.5763" Y="6218.772" Z="65.89009" />
+<Hotspot X="-736.0193" Y="6096.565" Z="2.686335" />
+<Hotspot X="-892.882" Y="6118.329" Z="24.30549" />
+<Hotspot X="-987.9325" Y="6084.794" Z="24.94473" />
+   </Hotspots>
+       
+</HBProfile>

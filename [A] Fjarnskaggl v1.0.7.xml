@@ -1,0 +1,95 @@
+
+<HBProfile>
+   <!--
+      PROFILE EXPECTATIONS:
+         * When using this profile, be certain to set the HonorBuddy bot to (select only one):
+                (*) Gatherbuddy2
+                ( ) Grinding / Mixed
+                ( ) Questing
+                ( ) PvP
+   
+         * This profile is appropriate for (check all that apply):
+                [X] Alliance   [ ] Achievement
+                [ ] Horde      [X] Farming
+                               [ ] Leveling
+                               [ ] PvP
+                               [ ] Questing
+                               [ ] Reputation
+                               [ ] Seasonal
+    -->
+   
+   <Name>Fjarnskaggl</Name>
+   <Name>Roman's Profile[Stormheim]</Name>
+   <MinLevel>1</MinLevel>
+   <MaxLevel>1001</MaxLevel>
+   
+   <MinDurability>0.3</MinDurability>
+   <MinFreeBagSlots>2</MinFreeBagSlots>
+   
+<!-- NB: Honorbuddy sells before mailing -->
+   <MailGrey>false</MailGrey>
+   <MailWhite>false</MailWhite>
+   <MailGreen>true</MailGreen>
+   <MailBlue>true</MailBlue>
+   <MailPurple>true</MailPurple>
+   
+   <SellGrey>false</SellGrey>
+   <SellWhite>false</SellWhite>
+   <SellGreen>false</SellGreen>
+   <SellBlue>false</SellBlue>
+   <SellPurple>false</SellPurple>
+   
+   <AvoidMobs>
+<Mob Name="Tiptog the Lost" Entry="93166" />
+<Mob Name="Fjorlag, the Grave's Chill" Entry="108827" />
+   </AvoidMobs>
+   
+   <Blackspots>
+<Blackspot X="1696.313" Y="4340.984" Z="160.8554" Radius="25" />
+<Blackspot X="2715.383" Y="431.0415" Z="39.40767" Radius="25" />
+   </Blackspots>
+
+
+   <Mailboxes>
+<Mailbox X="2856.3" Y="853.8911" Z="77.99078" />
+   </Mailboxes>
+
+   <Vendors>
+<Vendor Name="Hankerin Ferinale" Entry="98109" Type="Repair" Nav="Fly" X="2832.689" Y="903.7344" Z="77.96026" />
+   </Vendors>
+
+   <Hotspots>
+<Hotspot X="3138.624" Y="1481.073" Z="159.0043" />
+<Hotspot X="3025.891" Y="1470.744" Z="165.6187" />
+<Hotspot X="3079.728" Y="1231.479" Z="130.8869" />
+<Hotspot X="3042.475" Y="1147.723" Z="130.6283" />
+<Hotspot X="2913.101" Y="1044.619" Z="122.1529" />
+<Hotspot X="2838.252" Y="1051.182" Z="106.7544" />
+<Hotspot X="2820.086" Y="965.9281" Z="83.8084" />
+<Hotspot X="2748.221" Y="795.1136" Z="102.6628" />
+<Hotspot X="2724.997" Y="657.0054" Z="107.4626" />
+<Hotspot X="2759.627" Y="571.9276" Z="121.1102" />
+<Hotspot X="2865.237" Y="589.3869" Z="122.6972" />
+<Hotspot X="2870.983" Y="673.2889" Z="91.30006" />
+<Hotspot X="2847.199" Y="756.5642" Z="95.98227" />
+<Hotspot X="2931.763" Y="797.8209" Z="53.52763" />
+<Hotspot X="2957.455" Y="586.1238" Z="28.87849" />
+<Hotspot X="2962.025" Y="467.1724" Z="6.804345" />
+<Hotspot X="2934.541" Y="919.1755" Z="88.12034" />
+<Hotspot X="2911.636" Y="1015.771" Z="115.4179" />
+<Hotspot X="3070.878" Y="1027.387" Z="126.7135" />
+<Hotspot X="3142.191" Y="1101.911" Z="126.1371" />
+<Hotspot X="3235.81" Y="1083.709" Z="127.3425" />
+<Hotspot X="3333.615" Y="927.285" Z="144.4216" />
+<Hotspot X="3553.028" Y="1018.506" Z="158.3591" />
+<Hotspot X="3744.359" Y="939.4283" Z="132.9021" />
+<Hotspot X="3508.984" Y="1251.605" Z="128.7447" />
+<Hotspot X="3405.674" Y="1305.754" Z="123.0036" />
+<Hotspot X="3315.308" Y="1305.668" Z="119.367" />
+<Hotspot X="3242.693" Y="1206.814" Z="112.631" />
+<Hotspot X="3175.228" Y="1199.012" Z="114.465" />
+<Hotspot X="3080.263" Y="1231.023" Z="130.9092" />
+<Hotspot X="3019.811" Y="1145.065" Z="132.3484" />
+   </Hotspots>
+       
+</HBProfile>

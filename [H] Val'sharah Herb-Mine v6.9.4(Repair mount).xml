@@ -1,0 +1,112 @@
+<HBProfile>
+   <!--
+      PROFILE EXPECTATIONS:
+         * When using this profile, be certain to set the HonorBuddy bot to (select only one):
+                (*) Gatherbuddy2
+                ( ) Grinding / Mixed
+                ( ) Questing
+                ( ) PvP
+   
+         * This profile is appropriate for (check all that apply):
+                [ ] Alliance   [ ] Achievement
+                [X] Horde      [X] Farming
+                               [ ] Leveling
+                               [ ] PvP
+                               [ ] Questing
+                               [ ] Reputation
+                               [ ] Seasonal
+
+           DO NOT INCLUDE a <ForceMail> element in a profile!
+           DO NOT INCLUDE a <ProtectedItems> element in a profile, unless it
+
+    -->
+   <Name>Dreamleaf</Name>
+   <Name>Leystone</Name>
+   <Name>Felslate</Name>
+   <Name>Roman's Profile[Val'sharah]</Name>
+
+   <MinLevel>1</MinLevel>
+   <MaxLevel>1001</MaxLevel>
+   
+   <MinDurability>0.2</MinDurability>
+   <MinFreeBagSlots>2</MinFreeBagSlots>
+
+<!-- NB: Honorbuddy sells before mailing -->
+   <MailGrey>false</MailGrey>
+   <MailWhite>false</MailWhite>
+   <MailGreen>false</MailGreen>
+   <MailBlue>false</MailBlue>
+   <MailPurple>false</MailPurple>
+   
+   <SellGrey>true</SellGrey>
+   <SellWhite>true</SellWhite>
+   <SellGreen>false</SellGreen>
+   <SellBlue>false</SellBlue>
+   <SellPurple>false</SellPurple>
+   
+   <AvoidMobs>
+   
+   </AvoidMobs>
+
+   <Blackspots>
+<Blackspot X="2552.864" Y="6365.125" Z="189.04" Radius="10"/>
+<Blackspot X="1867.22" Y="6541.838" Z="75.92883" Radius="5"/>
+<Blackspot X="1861.907" Y="6529.686" Z="95.69585" Radius="5"/>
+<Blackspot X="2813.769" Y="7790.934" Z="23.10049" Radius="3" />
+<Blackspot X="1627.677" Y="6557.982" Z="37.71032" Radius="25" />
+   </Blackspots>
+   
+   <Mailboxes>
+<Mailbox X="-851.2739" Y="4389.499" Z="738.091" />
+   </Mailboxes>
+
+   <Vendors>
+<Vendor Name="Drix Blackwrench" Entry="32641" Type="Repair" Nav="Fly" X="2301.99" Y="6574.65" Z="142.3312" />
+   </Vendors>
+
+   <Hotspots>
+<Hotspot X="3110.131" Y="6733.823" Z="142.1684" />
+<Hotspot X="3055.315" Y="6812.931" Z="114.1185" />
+<Hotspot X="3000.41" Y="6916.268" Z="77.77027" />
+<Hotspot X="2905.15" Y="7032.73" Z="45.44827" />
+<Hotspot X="2837.88" Y="7103.12" Z="19.98272" />
+<Hotspot X="2823.525" Y="7135.142" Z="14.63418" />
+<Hotspot X="2806.777" Y="7154.853" Z="14.34571" />
+<Hotspot X="2795.017" Y="7211.382" Z="17.94244" />
+<Hotspot X="2765.635" Y="7309.202" Z="21.81078" />
+<Hotspot X="2770.274" Y="7486.724" Z="5.328554" />
+<Hotspot X="2836.973" Y="7704.813" Z="57.77494" />
+<Hotspot X="2600.905" Y="7452.045" Z="16.47498" />
+<Hotspot X="2285.397" Y="7197.611" Z="85.73334" />
+<Hotspot X="2176.384" Y="7149.928" Z="57.24161" />
+<Hotspot X="2148.433" Y="6920.107" Z="96.71378" />
+<Hotspot X="2240.652" Y="6834.93" Z="116.5522" />
+<Hotspot X="2301.497" Y="6771.562" Z="138.2207" />
+<Hotspot X="2436.946" Y="6739.678" Z="137.0876" />
+<Hotspot X="2465.392" Y="6608.193" Z="137.905" />
+<Hotspot X="2468.5" Y="6517.526" Z="157.4675" />
+<Hotspot X="2436.627" Y="6408.63" Z="164.4701" />
+<Hotspot X="2296.333" Y="6388.313" Z="144.4462" />
+<Hotspot X="2075.668" Y="6292.717" Z="118.4369" />
+<Hotspot X="1981.344" Y="6364.481" Z="94.20143" />
+<Hotspot X="1886.813" Y="6472.673" Z="92.97272" />
+<Hotspot X="1682.345" Y="6362.385" Z="39.23265" />
+<Hotspot X="1665.431" Y="6404.069" Z="38.82563" />
+<Hotspot X="1696.197" Y="6496.287" Z="64.93613" />
+<Hotspot X="1713.965" Y="6628.821" Z="83.20052" />
+<Hotspot X="1719.573" Y="6716.077" Z="84.40467" />
+<Hotspot X="1789.829" Y="6797.365" Z="37.17292" />
+<Hotspot X="1822.265" Y="6882.922" Z="22.36787" />
+<Hotspot X="1802.641" Y="6901.511" Z="13.74638" />
+<Hotspot X="1767.077" Y="6997.692" Z="31.61191" />
+<Hotspot X="1828.102" Y="7014.5" Z="38.55668" />
+<Hotspot X="1895.892" Y="7029.355" Z="62.51966" />
+<Hotspot X="1983.173" Y="6898.958" Z="58.33067" />
+<Hotspot X="2034.345" Y="6762.191" Z="99.83287" />
+<Hotspot X="2127.824" Y="6679.027" Z="108.2332" />
+<Hotspot X="2276.83" Y="6632.95" Z="133.8696" />
+<Hotspot X="2380.121" Y="6505.433" Z="149.594" />
+<Hotspot X="2643.141" Y="6432.828" Z="174.5813" />
+   </Hotspots>
+       
+</HBProfile>
